@@ -9,7 +9,7 @@ $(".menu").click(function () {
   );
   $(".navbar-list").animate(
     {
-      left: `+=250px`,
+      left: `+=280px`,
     },
     "slow"
   );
